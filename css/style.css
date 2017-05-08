@@ -1,0 +1,9 @@
+a[href^="http://maps.google.com/maps"]{display:none !important}
+a[href^="https://maps.google.com/maps"]{display:none !important}
+
+.GM a, .GM span {
+    display:none;
+}
+.GM div {
+    background:none !important;
+}
